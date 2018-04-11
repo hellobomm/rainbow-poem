@@ -5,6 +5,7 @@ red
 blue
 yellow
 indigo
+gold
 Unicorn
 
 even more moooore beautiful
