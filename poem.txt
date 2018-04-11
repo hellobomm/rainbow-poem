@@ -4,6 +4,7 @@ green
 red
 blue
 yellow
+indigo
 Unicorn
 
 even more beautiful
