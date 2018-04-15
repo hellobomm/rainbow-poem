@@ -4,7 +4,9 @@ green
 red
 blue
 yellow
+indigo
+gold
 Unicorn
 Dinosaur
 
-even more beautiful
+even more moooore beautiful
