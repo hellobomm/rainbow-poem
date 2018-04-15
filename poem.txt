@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn and the Pony
+The Rainbow and the Unicorn and the Dinosaur
 it consists of the colours
 green
 red
@@ -7,5 +7,6 @@ yellow
 indigo
 gold
 Unicorn
+Dinosaur
 
 even more moooore beautiful
